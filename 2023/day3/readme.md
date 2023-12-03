@@ -12,5 +12,5 @@ Please help! Otherwise the reindeer might catch wind of this and start a strike 
 [Solutions](./solution.ts) and [Tests](./solution.test.ts).
 
 ---
-[Main page](../readme.md). [Next day](../day2/readme.md) or
+[Main page](../../readme.md). [Next day](../day2/readme.md) or
 [Previous day](../day0/readme.md).

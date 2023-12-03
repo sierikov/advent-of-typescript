@@ -15,4 +15,4 @@ But the elves have some kind of fancy code-gen build step (built in Rust, of cou
 [Solutions](./solution.ts) and [Tests](./solution.test.ts).
 
 ---
-[Main page](../readme.md). [Next day](../day2/readme.md).
+[Main page](../../readme.md). [Next day](../day2/readme.md).
