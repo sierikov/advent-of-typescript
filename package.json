@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-typescript-solutions",
+  "version": "2023",
+  "description": "Solutions to Advent of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "compile": "ts-node './**/*.ts'"
+  },
+  "dependencies": {
+    "type-testing": "^0.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
