@@ -6,11 +6,13 @@ This is a repository for my solutions to the [Advent of Typescript 2023](https:/
 
 ## Solutions
 
+All solutions are located in the `2023` directory.
+
 | Day | Challenge |
 | --- | --------- |
-| 1 | [Christmas Cookies](./day1/readme.md) |
-| 2 | [Christmas Cookies Inventory](./day2/readme.md) |
-| 3 | [The Gift Wrapper](./day3/readme.md) |
+| 1 | [Christmas Cookies](./2023/day1/readme.md) |
+| 2 | [Christmas Cookies Inventory](./2023/day2/readme.md) |
+| 3 | [The Gift Wrapper](./2023/day3/readme.md) |
 
 ## Usage
 
