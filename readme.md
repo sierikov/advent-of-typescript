@@ -48,5 +48,5 @@ npx ts-node 2023/day1/solution.ts
 Run following to check the solution for all days:
 
 ```bash
-npm test
+npm run compile
 ```

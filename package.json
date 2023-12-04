@@ -4,7 +4,7 @@
   "description": "Solutions to Advent of TypeScript",
   "main": "index.js",
   "scripts": {
-    "compile": "ts-node './**/*.ts'"
+    "compile": "ts-node './2023/**/*.ts'"
   },
   "dependencies": {
     "type-testing": "^0.2.0"

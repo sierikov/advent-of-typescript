@@ -14,5 +14,5 @@ Good luck! As Santa always says: "your hard work will pay off eventually, just b
 [Solutions](./solution.ts) and [Tests](./solution.test.ts).
 
 ---
-[Main page](../../readme.md). [Next day](../day2/readme.md) or
-[Previous day](../day0/readme.md).
+[Main page](../../readme.md). [Next day](../day3/readme.md) or
+[Previous day](../day1/readme.md).
