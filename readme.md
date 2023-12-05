@@ -13,6 +13,8 @@ All solutions are located in the `2023` directory.
 | 1 | [Christmas Cookies](./2023/day1/readme.md) |
 | 2 | [Christmas Cookies Inventory](./2023/day2/readme.md) |
 | 3 | [The Gift Wrapper](./2023/day3/readme.md) |
+| 4 | [Christmas Present Delivery Addresses](./2023/day4/readme.md) |
+| 5 | [Organize Santa's List](./2023/day5/readme.md) |
 
 ## Usage
 
